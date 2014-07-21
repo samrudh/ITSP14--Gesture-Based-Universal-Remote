@@ -1,4 +1,5 @@
-A summer project done in May-June 20| Gesture Based universal remote |
+A summer project done in May-June 2014
+| Gesture Based universal remote |
 
 Authors:
 Ankit Patil
