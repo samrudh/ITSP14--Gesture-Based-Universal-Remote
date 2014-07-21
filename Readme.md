@@ -1,8 +1,8 @@
 A summer project done in May-June 2014
 | Gesture Based universal remote |
 
-Description: It is a universal remote project aimed at 
-implementing gesture based control of all the devices 
+Description: It is a project aimed at 
+implementing gesture based universal remote control of all the devices 
 working with IR remote protocol.
 
 Our wearable device first learns the IR codes, and mimic its functionality
